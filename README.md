@@ -2,7 +2,7 @@
 
 A multi-page React app for exploring the countries of the world. Search and filter every country, open a country for its details and the live weather in its capital, and save the ones you want to come back to.
 
-**Live demo:** https://YOUR-PROJECT.vercel.app
+**Live demo:** https://orbit-atlas-gray.vercel.app/
 
 <!-- Add a screenshot after you take one:
 ![Home page](docs/home.png)
